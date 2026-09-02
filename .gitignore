@@ -1,0 +1,18 @@
+# Checkpoints & Model weights
+ckpt_*/
+ckpt/
+*.safetensors
+*.pt
+*.bin
+*.pth
+
+# Data files (large)
+data/
+datasets/
+
+# Python cache & IDE
+__pycache__/
+*.pyc
+.agents/
+.vscode/
+.idea/
